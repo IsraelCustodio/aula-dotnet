@@ -36,3 +36,5 @@ D:\Desenvolvimento\Visual Studio\Pessoal\curso-net\repositorio\aula-dotnet\AulaT
 D:\Desenvolvimento\Visual Studio\Pessoal\curso-net\repositorio\aula-dotnet\AulaTodo\Application\bin\Debug\netcoreapp2.1\ORM.pdb
 D:\Desenvolvimento\Visual Studio\Pessoal\curso-net\repositorio\aula-dotnet\AulaTodo\Application\bin\Debug\netcoreapp2.1\libman.json
 D:\Desenvolvimento\Visual Studio\Pessoal\curso-net\repositorio\aula-dotnet\AulaTodo\Application\obj\Debug\netcoreapp2.1\Razor\Views\Home\Cadastrar.cshtml.g.cs
+D:\Desenvolvimento\Visual Studio\Pessoal\curso-net\repositorio\aula-dotnet\AulaTodo\Application\obj\Debug\netcoreapp2.1\Razor\Views\Home\Editar.cshtml.g.cs
+D:\Desenvolvimento\Visual Studio\Pessoal\curso-net\repositorio\aula-dotnet\AulaTodo\Application\obj\Debug\netcoreapp2.1\Razor\Views\Home\Remover.cshtml.g.cs

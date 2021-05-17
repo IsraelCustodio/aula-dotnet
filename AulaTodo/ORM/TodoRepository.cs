@@ -6,10 +6,11 @@ using System.Data.SqlClient;
 using System.Text;
 using Dapper;
 using System.Linq;
+using ORM.Interfaces;
 
 namespace ORM
 {
-    public class TodoRepository : RepositoryConector, Interfaces.ITodoRepository
+    public class TodoRepository : RepositoryConector, ITodoRepository
     {
         public TodoRepository(IConfiguration config)
             : base(config)
@@ -33,7 +34,7 @@ namespace ORM
         public ToDo Get(int id)
         {
             string sql = $"select * from Todo where Id = {id}";
-            
+
             using (var con = new SqlConnection(base.GetConnection()))
             {
                 return con.Query<ToDo>(sql).FirstOrDefault();
@@ -54,12 +55,27 @@ namespace ORM
 
         public void Remove(ToDo obj)
         {
-            throw new NotImplementedException();
+            string sql = $@"delete from Todo where Id = {obj.Id}";
+
+            using (var con = new SqlConnection(base.GetConnection()))
+            {
+                con.Execute(sql);
+            }
         }
 
         public void Update(ToDo obj)
         {
-            throw new NotImplementedException();
+            DynamicParameters param = new DynamicParameters();
+            param.Add("@Tarefa", obj.Tarefa);
+
+            string sql = $@"update Todo
+                           set Tarefa = @Tarefa
+                           where Id = {obj.Id}";
+
+            using (var con = new SqlConnection(base.GetConnection()))
+            {
+                con.Execute(sql, param);
+            }
         }
     }
 }

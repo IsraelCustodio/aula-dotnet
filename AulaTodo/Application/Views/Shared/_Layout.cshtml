@@ -13,6 +13,7 @@
     <partial name="_CookieConsentPartial" />
 
     <div class="container mt-5 body-content">
+        @Application.Models.Notification.Get(TempData)
         @RenderBody()
         <hr />
         <footer>

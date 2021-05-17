@@ -1,0 +1,33 @@
+﻿@model IEnumerable<Entities.ToDo>
+
+<div class="card">
+    <div class="card-header">
+        Tarefas a fazer
+    </div>
+    <div class="card-body">
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Tarefa</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Tarefa</td>
+
+                        <td>
+                            @Html.ActionLink("Editar", "Editar", "Home", new { id = item.Id }, new { @class = "btn btn-warning btn-sm" })
+
+                            @Html.ActionLink("Remover", "Remover", "Home", new { id = item.Id }, new { @class = "btn btn-danger btn-sm" })
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+        @Html.ActionLink("Cadastrar Tarefa", "Cadastrar", "Home", null, new { @class = "btn btn-success btn-sm" })
+    </div>
+</div>

@@ -1,0 +1,12 @@
+D:\Desenvolvimento\Visual Studio\Pessoal\curso-net\repositorio\aula-dotnet\AulaTodo\ORM\bin\Debug\netcoreapp2.1\Entities.dll
+D:\Desenvolvimento\Visual Studio\Pessoal\curso-net\repositorio\aula-dotnet\AulaTodo\ORM\obj\Debug\netcoreapp2.1\ORM.AssemblyInfoInputs.cache
+D:\Desenvolvimento\Visual Studio\Pessoal\curso-net\repositorio\aula-dotnet\AulaTodo\ORM\obj\Debug\netcoreapp2.1\ORM.AssemblyInfo.cs
+D:\Desenvolvimento\Visual Studio\Pessoal\curso-net\repositorio\aula-dotnet\AulaTodo\ORM\obj\Debug\netcoreapp2.1\ORM.csprojAssemblyReference.cache
+D:\Desenvolvimento\Visual Studio\Pessoal\curso-net\repositorio\aula-dotnet\AulaTodo\ORM\bin\Debug\netcoreapp2.1\ORM.deps.json
+D:\Desenvolvimento\Visual Studio\Pessoal\curso-net\repositorio\aula-dotnet\AulaTodo\ORM\bin\Debug\netcoreapp2.1\ORM.dll
+D:\Desenvolvimento\Visual Studio\Pessoal\curso-net\repositorio\aula-dotnet\AulaTodo\ORM\bin\Debug\netcoreapp2.1\ORM.pdb
+D:\Desenvolvimento\Visual Studio\Pessoal\curso-net\repositorio\aula-dotnet\AulaTodo\ORM\bin\Debug\netcoreapp2.1\Entities.pdb
+D:\Desenvolvimento\Visual Studio\Pessoal\curso-net\repositorio\aula-dotnet\AulaTodo\ORM\obj\Debug\netcoreapp2.1\ORM.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\Visual Studio\Pessoal\curso-net\repositorio\aula-dotnet\AulaTodo\ORM\obj\Debug\netcoreapp2.1\ORM.csproj.CopyComplete
+D:\Desenvolvimento\Visual Studio\Pessoal\curso-net\repositorio\aula-dotnet\AulaTodo\ORM\obj\Debug\netcoreapp2.1\ORM.dll
+D:\Desenvolvimento\Visual Studio\Pessoal\curso-net\repositorio\aula-dotnet\AulaTodo\ORM\obj\Debug\netcoreapp2.1\ORM.pdb

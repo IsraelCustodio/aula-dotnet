@@ -1,0 +1,9 @@
+D:\Desenvolvimento\Visual Studio\Pessoal\curso-net\repositorio\aula-dotnet\AulaTodo\Entities\bin\Debug\netcoreapp2.1\Entities.deps.json
+D:\Desenvolvimento\Visual Studio\Pessoal\curso-net\repositorio\aula-dotnet\AulaTodo\Entities\bin\Debug\netcoreapp2.1\Entities.dll
+D:\Desenvolvimento\Visual Studio\Pessoal\curso-net\repositorio\aula-dotnet\AulaTodo\Entities\bin\Debug\netcoreapp2.1\Entities.pdb
+D:\Desenvolvimento\Visual Studio\Pessoal\curso-net\repositorio\aula-dotnet\AulaTodo\Entities\obj\Debug\netcoreapp2.1\Entities.csprojAssemblyReference.cache
+D:\Desenvolvimento\Visual Studio\Pessoal\curso-net\repositorio\aula-dotnet\AulaTodo\Entities\obj\Debug\netcoreapp2.1\Entities.AssemblyInfoInputs.cache
+D:\Desenvolvimento\Visual Studio\Pessoal\curso-net\repositorio\aula-dotnet\AulaTodo\Entities\obj\Debug\netcoreapp2.1\Entities.AssemblyInfo.cs
+D:\Desenvolvimento\Visual Studio\Pessoal\curso-net\repositorio\aula-dotnet\AulaTodo\Entities\obj\Debug\netcoreapp2.1\Entities.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\Visual Studio\Pessoal\curso-net\repositorio\aula-dotnet\AulaTodo\Entities\obj\Debug\netcoreapp2.1\Entities.dll
+D:\Desenvolvimento\Visual Studio\Pessoal\curso-net\repositorio\aula-dotnet\AulaTodo\Entities\obj\Debug\netcoreapp2.1\Entities.pdb

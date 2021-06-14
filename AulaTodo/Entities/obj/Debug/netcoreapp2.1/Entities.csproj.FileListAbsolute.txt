@@ -6,4 +6,3 @@ D:\Desenvolvimento\Visual Studio\Pessoal\curso-net\repositorio\aula-dotnet\AulaT
 D:\Desenvolvimento\Visual Studio\Pessoal\curso-net\repositorio\aula-dotnet\AulaTodo\Entities\obj\Debug\netcoreapp2.1\Entities.csproj.CoreCompileInputs.cache
 D:\Desenvolvimento\Visual Studio\Pessoal\curso-net\repositorio\aula-dotnet\AulaTodo\Entities\obj\Debug\netcoreapp2.1\Entities.dll
 D:\Desenvolvimento\Visual Studio\Pessoal\curso-net\repositorio\aula-dotnet\AulaTodo\Entities\obj\Debug\netcoreapp2.1\Entities.pdb
-D:\Desenvolvimento\Visual Studio\Pessoal\curso-net\repositorio\aula-dotnet\AulaTodo\Entities\obj\Debug\netcoreapp2.1\Entities.csproj.AssemblyReference.cache

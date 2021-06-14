@@ -7,7 +7,6 @@ D:\Desenvolvimento\Visual Studio\Pessoal\curso-net\repositorio\aula-dotnet\AulaT
 D:\Desenvolvimento\Visual Studio\Pessoal\curso-net\repositorio\aula-dotnet\AulaTodo\Application\bin\Debug\netcoreapp2.1\Application.pdb
 D:\Desenvolvimento\Visual Studio\Pessoal\curso-net\repositorio\aula-dotnet\AulaTodo\Application\bin\Debug\netcoreapp2.1\Application.Views.dll
 D:\Desenvolvimento\Visual Studio\Pessoal\curso-net\repositorio\aula-dotnet\AulaTodo\Application\bin\Debug\netcoreapp2.1\Application.Views.pdb
-D:\Desenvolvimento\Visual Studio\Pessoal\curso-net\repositorio\aula-dotnet\AulaTodo\Application\obj\Debug\netcoreapp2.1\Application.csprojAssemblyReference.cache
 D:\Desenvolvimento\Visual Studio\Pessoal\curso-net\repositorio\aula-dotnet\AulaTodo\Application\obj\Debug\netcoreapp2.1\Application.AssemblyInfoInputs.cache
 D:\Desenvolvimento\Visual Studio\Pessoal\curso-net\repositorio\aula-dotnet\AulaTodo\Application\obj\Debug\netcoreapp2.1\Application.AssemblyInfo.cs
 D:\Desenvolvimento\Visual Studio\Pessoal\curso-net\repositorio\aula-dotnet\AulaTodo\Application\obj\Debug\netcoreapp2.1\Application.csproj.CoreCompileInputs.cache
@@ -38,3 +37,4 @@ D:\Desenvolvimento\Visual Studio\Pessoal\curso-net\repositorio\aula-dotnet\AulaT
 D:\Desenvolvimento\Visual Studio\Pessoal\curso-net\repositorio\aula-dotnet\AulaTodo\Application\obj\Debug\netcoreapp2.1\Razor\Views\Home\Cadastrar.cshtml.g.cs
 D:\Desenvolvimento\Visual Studio\Pessoal\curso-net\repositorio\aula-dotnet\AulaTodo\Application\obj\Debug\netcoreapp2.1\Razor\Views\Home\Editar.cshtml.g.cs
 D:\Desenvolvimento\Visual Studio\Pessoal\curso-net\repositorio\aula-dotnet\AulaTodo\Application\obj\Debug\netcoreapp2.1\Razor\Views\Home\Remover.cshtml.g.cs
+D:\Desenvolvimento\Visual Studio\Pessoal\curso-net\repositorio\aula-dotnet\AulaTodo\Application\obj\Debug\netcoreapp2.1\Application.csproj.AssemblyReference.cache
